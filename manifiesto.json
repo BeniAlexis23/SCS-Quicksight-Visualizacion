@@ -1,0 +1,20 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://project-smart-cities/SCALARS-2020.csv"
+            ]
+        },
+        {
+            "URIPrefixes": [
+                "s3://project-smart-cities/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ";",
+	"textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
