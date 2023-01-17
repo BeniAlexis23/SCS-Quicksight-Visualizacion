@@ -1,1 +1,0 @@
-https://us-east-1.quicksight.aws.amazon.com/sn/accounts/453172793602/dashboards/43e34b6f-1b63-42b5-a36b-c2d5f860063d?directory_alias=tesis-beniluyo
